@@ -7,3 +7,4 @@ cordachat/gradle/
 cordachat/gradlew
 cordachat/gradlew.bat
 spring-webserver/logs/
+out/
